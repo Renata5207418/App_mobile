@@ -110,3 +110,4 @@ Nesta página, os usuários podem visualizar e editar suas informações de perf
 
 Essas são as principais páginas do aplicativo "E-commerce Zap Frutas". Cada página desempenha um papel importante na experiência do usuário ao navegar e fazer compras no aplicativo.
 
+# App_mobile
